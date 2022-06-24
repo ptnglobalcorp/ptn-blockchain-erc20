@@ -1,16 +1,16 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.9.0;
-import "./CepToken.sol";
+import "./PtnCoinToken.sol";
 
 contract PtnCoinTokenSale {
     address adminAddress;
     uint256 public tokenPrice;
-    CepToken public cepTokenContract;
+    PtnCoinToken public cepTokenContract;
     uint256 public tokensSold;
 
     event Sell(address _buyer, uint256 _amount);
 
-    constructor(CepToken _tokenContract, uint256 _tokenPrice) {
+    constructor(PtnCoinToken _tokenContract, uint256 _tokenPrice) {
         adminAddress = msg.sender;
         cepTokenContract = _tokenContract;
         tokenPrice = _tokenPrice;
