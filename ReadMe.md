@@ -6,7 +6,7 @@ The standard can be found here: <https://github.com/ethereum/EIPs/blob/master/EI
 
 ## TODO
 
-    [*] Create Own Cryptocurrency named 'PTN'
+    [*] Create Own Cryptocurrency
     [*] Deploy token to test net
     [*] Transfer token via MetaMask
 ## Output
