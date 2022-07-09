@@ -15,7 +15,6 @@ https://rinkeby.etherscan.io/token/0xe5755d79cf230943270e7f035019cd9cff1a37de
 
 ![image](https://user-images.githubusercontent.com/8032468/173708243-6ef27538-9d2a-419c-be92-726de5b7f9d8.png)
 
-My Remix: https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
 
 ## Books
 
